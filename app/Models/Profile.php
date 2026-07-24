@@ -15,8 +15,7 @@ class Profile extends Model
         'location',
         'phone',
         'email',
-        'wbsite',
+        'website',
         'profile_image',
-
     ];
         }
