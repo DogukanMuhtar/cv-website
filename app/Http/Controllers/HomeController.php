@@ -21,7 +21,7 @@ class HomeController extends Controller
         $educations = Education::orderBy('sort_order')->get();
         $socialLinks = SocialLink::orderBy('sort_order')->get();
 
-        return view('home', compact(
+        return view('index', compact(
             'profile',
             'expertises',
             'skills',
