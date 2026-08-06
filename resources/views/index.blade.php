@@ -66,7 +66,7 @@
 
                                 <div class="c-header__avatar">
                                     <div class="a-header  c-avatar">
-                                        <img class="c-avatar__img" src="assets/images/me.png"
+                                        <img class="c-avatar__img" src="{{ asset('assets/images/me.png') }}"
                                             alt="Doğukan Muhtar">
                                     </div><!-- /c-avatar -->
                                 </div><!-- /c-header-avatar -->
@@ -103,13 +103,13 @@
 
                                     <ul class="c-header__social-buttons  c-social-buttons">
                                         <li class="a-header">
-                                            <a href="https://github.com/hatra-e/" target="_blank"
+                                            <a href="https://github.com/DogukanMuhtar" target="_blank"
                                                 class="c-social-button  t-social-button">
                                                 <i class="fab  fa-lg  fa-github"></i>
                                             </a>
                                         </li>
                                         <li class="a-header">
-                                            <a href="https://linkedin.com/" target="_blank"
+                                            <a href="https://www.linkedin.com/in/do%C4%9Fukan-muhtar-475104246/" target="_blank"
                                                 class="c-social-button  t-social-button">
                                                 <i class="fab  fa-lg  fa-linkedin-in"></i>
                                             </a>
@@ -829,7 +829,7 @@
 
                             <div class="o-grid__col-xl-4  o-grid__col-sm-6">
                                 <div class="o-content">
-                                    <a href="https://github.com/hatra-e/" target="_blank" class="t-link-container">
+                                    <a href="https://github.com/DogukanMuhtar" target="_blank" class="t-link-container">
                                         <div class="o-media  o-media--block">
                                             <div class="o-media__figure">
                                                 <div class="c-profile__icon">
@@ -851,7 +851,7 @@
 
                             <div class="o-grid__col-xl-4  o-grid__col-sm-6">
                                 <div class="o-content">
-                                    <a href="https://linkedin.com" target="_blank" class="t-link-container">
+                                    <a href="https://www.linkedin.com/in/do%C4%9Fukan-muhtar-475104246/" target="_blank" class="t-link-container">
                                         <div class="o-media  o-media--block">
                                             <div class="o-media__figure">
                                                 <div class="c-profile__icon">
@@ -1006,13 +1006,13 @@
 
                                 <ul class="c-footer__social-buttons  c-social-buttons  o-content__body">
                                     <li class="a-footer">
-                                        <a href="https://github.com/hatra-e/" target="_blank"
+                                        <a href="https://github.com/DogukanMuhtar" target="_blank"
                                             class="c-social-button  t-social-button">
                                             <i class="fab  fa-lg  fa-github"></i>
                                         </a>
                                     </li>
                                     <li class="a-footer">
-                                        <a href="https://linkedin.com/" target="_blank"
+                                        <a href="https://www.linkedin.com/in/do%C4%9Fukan-muhtar-475104246/" target="_blank"
                                             class="c-social-button  t-social-button">
                                             <i class="fab  fa-lg  fa-linkedin-in"></i>
                                         </a>
