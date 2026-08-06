@@ -154,7 +154,7 @@
                                                         <h4>Web</h4>
                                                         <p>
                                                             <span class="t-link-container__item--blended">
-                                                                muhtar.com
+                                                                dogukanmuhtar.com
                                                             </span>
                                                         </p>
                                                     </a><!-- /o-link-container -->
@@ -955,7 +955,7 @@
                                                 <h4>Web</h4>
                                                 <p>
                                                     <span class="t-link-container__item--blended">
-                                                        muhtar.com
+                                                        dogukanmuhtar.com
                                                     </span>
                                                 </p>
                                             </a><!-- /o-link-container -->
