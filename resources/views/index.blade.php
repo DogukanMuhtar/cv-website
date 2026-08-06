@@ -150,7 +150,7 @@
                                         <div class="o-grid__col-md-3  o-grid__col-sm-6">
                                             <div class="a-header  o-content">
                                                 <div class="o-content__body">
-                                                    <a href="#" target="_blank" class="t-link-container">
+                                                    <a href="https://dogukanmuhtar.com" target="_blank" class="t-link-container">
                                                         <h4>Web</h4>
                                                         <p>
                                                             <span class="t-link-container__item--blended">
@@ -951,7 +951,7 @@
                                 <div class="o-grid__col-md-3  o-grid__col-sm-6">
                                     <div class="o-content">
                                         <div class="o-content__body">
-                                            <a href="#" target="_blank" class="t-link-container">
+                                            <a href="https://dogukanmuhtar.com" target="_blank" class="t-link-container">
                                                 <h4>Web</h4>
                                                 <p>
                                                     <span class="t-link-container__item--blended">
