@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 
 <html lang="en">
 
@@ -426,8 +426,8 @@
                                         </div>
                                     </div>
                                     <div class="c-progress-bar  o-content__body  t-border-color-bg  u-mt-text">
-                                        <div class="a-progress-bar  c-progress-bar__filler  t-primary-bg"
-                                            style="width: 85% !important;" data-percent="85"></div>
+                                        <div class="a-progress-bar  js-skill-progress  c-progress-bar__filler  t-primary-bg"
+                                            data-percent="85"></div>
                                     </div>
                                 </div>
                             </div><!-- /o-grid__col -->
@@ -445,8 +445,8 @@
                                         </div>
                                     </div>
                                     <div class="c-progress-bar  o-content__body  t-border-color-bg  u-mt-text">
-                                        <div class="a-progress-bar  c-progress-bar__filler  t-primary-bg"
-                                            style="width: 80% !important;" data-percent="80"></div>
+                                        <div class="a-progress-bar  js-skill-progress  c-progress-bar__filler  t-primary-bg"
+                                            data-percent="80"></div>
                                     </div>
                                 </div>
                             </div><!-- /o-grid__col -->
@@ -464,8 +464,8 @@
                                         </div>
                                     </div>
                                     <div class="c-progress-bar  o-content__body  t-border-color-bg  u-mt-text">
-                                        <div class="a-progress-bar  c-progress-bar__filler  t-primary-bg"
-                                            style="width: 75% !important;" data-percent="7 5"></div>
+                                        <div class="a-progress-bar  js-skill-progress  c-progress-bar__filler  t-primary-bg"
+                                            data-percent="75"></div>
                                     </div>
                                 </div>
                             </div><!-- /o-grid__col -->
@@ -483,8 +483,8 @@
                                         </div>
                                     </div>
                                     <div class="c-progress-bar  o-content__body  t-border-color-bg  u-mt-text">
-                                        <div class="a-progress-bar  c-progress-bar__filler  t-primary-bg"
-                                            style="width: 70% !important;" data-percent="70"></div>
+                                        <div class="a-progress-bar  js-skill-progress  c-progress-bar__filler  t-primary-bg"
+                                            data-percent="70"></div>
                                     </div>
                                 </div>
                             </div><!-- /o-grid__col -->
@@ -502,8 +502,8 @@
                                         </div>
                                     </div>
                                     <div class="c-progress-bar  o-content__body  t-border-color-bg  u-mt-text">
-                                        <div class="a-progress-bar  c-progress-bar__filler  t-primary-bg"
-                                            style="width: 80% !important;" data-percent="80"></div>
+                                        <div class="a-progress-bar  js-skill-progress  c-progress-bar__filler  t-primary-bg"
+                                            data-percent="80"></div>
                                     </div>
                                 </div>
                             </div><!-- /o-grid__col -->
@@ -521,8 +521,8 @@
                                         </div>
                                     </div>
                                     <div class="c-progress-bar  o-content__body  t-border-color-bg  u-mt-text">
-                                        <div class="a-progress-bar  c-progress-bar__filler  t-primary-bg"
-                                            style="width: 75% !important;" data-percent="75"></div>
+                                        <div class="a-progress-bar  js-skill-progress  c-progress-bar__filler  t-primary-bg"
+                                            data-percent="75"></div>
                                     </div>
                                 </div>
                             </div><!-- /o-grid__col -->
@@ -540,8 +540,8 @@
                                         </div>
                                     </div>
                                     <div class="c-progress-bar  o-content__body  t-border-color-bg  u-mt-text">
-                                        <div class="a-progress-bar  c-progress-bar__filler  t-primary-bg"
-                                            style="width: 85% !important;" data-percent="85"></div>
+                                        <div class="a-progress-bar  js-skill-progress  c-progress-bar__filler  t-primary-bg"
+                                            data-percent="85"></div>
                                     </div>
                                 </div>
                             </div><!-- /o-grid__col -->
@@ -559,8 +559,8 @@
                                         </div>
                                     </div>
                                     <div class="c-progress-bar  o-content__body  t-border-color-bg  u-mt-text">
-                                        <div class="a-progress-bar  c-progress-bar__filler  t-primary-bg"
-                                            style="width: 90% !important;" data-percent="90"></div>
+                                        <div class="a-progress-bar  js-skill-progress  c-progress-bar__filler  t-primary-bg"
+                                            data-percent="90"></div>
                                     </div>
                                 </div>
                             </div><!-- /o-grid__col -->
